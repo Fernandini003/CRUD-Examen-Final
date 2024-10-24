@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\pregunta1\\views\\productpreview\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|solutionrelative:pregunta1\\views\\productpreview\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\pregunta1\\views\\productpreview\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|solutionrelative:pregunta1\\views\\productpreview\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\pregunta1\\views\\productpreview\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|solutionrelative:pregunta1\\views\\productpreview\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\pregunta1\\views\\productpreview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|solutionrelative:pregunta1\\views\\productpreview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|c:\\users\\fernando\\downloads\\examen poo\\examen_final\\pregunta1\\views\\productpreview\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|solutionrelative:pregunta1\\views\\productpreview\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\pregunta1\\controllers\\productpreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E490B322-BA18-438B-B86C-14C9CA1AA1EF}|PREGUNTA1\\PREGUNTA1.csproj|solutionrelative:pregunta1\\controllers\\productpreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 347,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA1\\Views\\ProductPreview\\Detalles.cshtml",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Detalles.cshtml",
+              "RelativeToolTip": "PREGUNTA1\\Views\\ProductPreview\\Detalles.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T02:33:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Crear.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA1\\Views\\ProductPreview\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Crear.cshtml",
+              "RelativeToolTip": "PREGUNTA1\\Views\\ProductPreview\\Crear.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T02:20:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA1\\Views\\ProductPreview\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Eliminar.cshtml",
+              "RelativeToolTip": "PREGUNTA1\\Views\\ProductPreview\\Eliminar.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T02:09:13.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Editar.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA1\\Views\\ProductPreview\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Editar.cshtml",
+              "RelativeToolTip": "PREGUNTA1\\Views\\ProductPreview\\Editar.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T01:48:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductPreviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Controllers\\ProductPreviewController.cs",
+              "RelativeDocumentMoniker": "PREGUNTA1\\Controllers\\ProductPreviewController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Controllers\\ProductPreviewController.cs",
+              "RelativeToolTip": "PREGUNTA1\\Controllers\\ProductPreviewController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:48:16.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Index.cshtml",
+              "RelativeDocumentMoniker": "PREGUNTA1\\Views\\ProductPreview\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\EXAMEN POO\\EXAMEN_FINAL\\PREGUNTA1\\Views\\ProductPreview\\Index.cshtml",
+              "RelativeToolTip": "PREGUNTA1\\Views\\ProductPreview\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T01:43:41.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
